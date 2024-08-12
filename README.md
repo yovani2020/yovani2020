@@ -1,4 +1,4 @@
-# <img src="https://media3.giphy.com/media/l1J9tiMFKV8R31J9m/200w.webp" width="100"/> Bienvenidos al GitHub de Yovani
+# <img src="https://media3.giphy.com/media/l1J9tiMFKV8R31J9m/200w.webp" width="70"/> Bienvenidos al GitHub de Yovani
 
  Soy un programador junior apasionado por la programación y siempre en busca de aprender más. Me motiva crear soluciones innovadoras y enfrentar desafíos a través del código. Estoy emocionado por la oportunidad de contribuir con mi energía y compromiso, y dispuesto a crecer junto con el equipo en cada proyecto
 
