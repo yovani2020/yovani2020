@@ -4,6 +4,14 @@
 
  Soy un programador junior apasionado por la programación y siempre en busca de aprender más. Me motiva crear soluciones innovadoras y enfrentar desafíos a través del código. Estoy emocionado por la oportunidad de contribuir con mi energía y compromiso, y dispuesto a crecer junto con el equipo en cada proyecto
 
+<ol>
+  <li>Java: 75%</li>
+  <li>Flutter: 20%</li>
+  <li>JavaScript: 30%</li>
+  <li>HTMLL: 90%</li>
+  <li>CSS: 50%</li>
+</ol>
+
  ## Tecnologias 💻
 
 <p align="center">Desarrollo de aplicaciones</p>
@@ -21,8 +29,4 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">   
 <p/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yovani2020&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yovani2020&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div> 
+
