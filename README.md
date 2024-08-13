@@ -8,8 +8,8 @@
 
 <p align="center">Dominados</p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48"  alt="Java" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48"  alt="MySQL" />
 </p>
 <p align="center">Desarrollo de Paginas Web</p>
 <p align="center">
