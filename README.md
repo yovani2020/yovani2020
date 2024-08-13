@@ -1,6 +1,6 @@
 #  <h1 align="center"><img src="https://media3.giphy.com/media/l1J9tiMFKV8R31J9m/200w.webp" width="70"/> `Bienvenidos al GitHub de Yovani`</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Perú;I'm+24+years+old;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#a1fc6d&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+México;I'm+20+years+old;Welcome!)
 
  Soy un programador junior apasionado por la programación y siempre en busca de aprender más. Me motiva crear soluciones innovadoras y enfrentar desafíos a través del código. Estoy emocionado por la oportunidad de contribuir con mi energía y compromiso, y dispuesto a crecer junto con el equipo en cada proyecto
 
